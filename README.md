@@ -96,6 +96,15 @@ silangid-test/
 
 ---
 
+## Menjalankan web aplikasi:
+
+Setelah menjalankan semua perintah diatas, masuk ke web aplikasi react js untuk login. setelah melakukan migrasi dan seed pada directory Laravel maka akan generate contoh user yang bisa di gunakan (dummy) dengan akses akun:
+
+- email: test@example.com
+- password: password
+
+---
+
 ## 📝 Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan digunakan dan dimodifikasi sesuai kebutuhan.
