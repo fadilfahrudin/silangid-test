@@ -1,0 +1,75 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# React JS ignored file
+# dependencies
+/silangid-reactjs/node_modules
+/silangid-reactjs/.pnp
+/silangid-reactjs/.pnp.js
+/silangid-reactjs/.yarn/install-state.gz
+
+/silangid-reactjs/dist
+/silangid-reactjs/dist-ssr
+/silangid-reactjs/*.local
+
+# testing
+/silangid-reactjs/coverage
+
+# next.js
+/silangid-reactjs/.next/
+/silangid-reactjs/out/
+
+# production
+/silangid-reactjs/build
+
+# misc
+/silangid-reactjs/.DS_Store
+.DS_Store
+/silangid-reactjs/*.pem
+
+# debug
+/silangid-reactjs/.npm-debug.log*
+/silangid-reactjs/yarn-debug.log*
+/silangid-reactjs/yarn-error.log*
+
+# local env files
+/silangid-reactjs/.env
+/silangid-reactjs/.env*.local
+
+# vercel
+/silangid-reactjs/.vercel
+
+# typescript
+/silangid-reactjs/*.tsbuildinfo
+/silangid-reactjs/next-env.d.ts
+
+
+/silangid-reactjs/.vscode/*
+/silangid-reactjs/!.vscode/extensions.json
+
+
+# Laravel ignored file
+
+
+/silangid-laravel/.phpunit.cache
+/silangid-laravel/node_modules
+/silangid-laravel/public/build
+/silangid-laravel/public/hot
+/silangid-laravel/public/storage
+/silangid-laravel/storage/*.key
+/silangid-laravel/storage/pail
+/silangid-laravel/vendor
+/silangid-laravel/.env
+/silangid-laravel/.env.backup
+/silangid-laravel/.env.production
+/silangid-laravel/.phpactor.json
+/silangid-laravel/.phpunit.result.cache
+/silangid-laravel/Homestead.json
+/silangid-laravel/Homestead.yaml
+/silangid-laravel/npm-debug.log
+/silangid-laravel/yarn-error.log
+/silangid-laravel/auth.json
+/silangid-laravel/.fleet
+/silangid-laravel/.idea
+/silangid-laravel/.nova
+/silangid-laravel/.vscode
+/silangid-laravel/.zed
